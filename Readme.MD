@@ -90,7 +90,3 @@ The data for this project is derived from **CelesTrak** and other open sources:
 
 ## Usage
 
-### 1. Setup
-- Clone the repository:
-  ```bash
-  git clone https://github.com/your-repo/space-debris-detection.git
